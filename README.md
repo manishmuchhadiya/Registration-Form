@@ -1,4 +1,3 @@
-```markdown
 # Registration Form
 
 A simple and responsive registration form built using HTML, CSS, and JavaScript. This form collects user information like name, email, password, date of birth, and terms acceptance, and it validates the inputs on the client side.
